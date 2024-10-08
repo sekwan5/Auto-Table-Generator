@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         우마무스메 자동 마신표 제작기
 // @namespace    http://tampermonkey.net/
-// @version      3.0.1
+// @version      1.1.0
 // @description  우마무스메 레이스 에뮬레이터로 마신표를 자동으로 만드는 스크립트입니다.
 // @author       Ravenclaw5874
 // @match        http://race-ko.wf-calc.net/
@@ -13,7 +13,7 @@
 // @icon         https://img1.daumcdn.net/thumb/C151x151/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fcafeattach%2F1ZK1D%2F80ed3bb76fa6ce0a4a0c7a9cc33d55430f797e35
 // @grant        GM_getResourceText
 // @require      http://code.jquery.com/jquery-3.6.1.min.js
-// @resource skillDBTsv https://raw.githubusercontent.com/Ravenclaw5874/Auto-Bashin-Table-Generator/main/%EC%8A%A4%ED%82%ACDB%20-%202.5%EC%A3%BC%EB%85%84%20%EC%A0%84.tsv
+// @resource skillDBTsv https://raw.githubusercontent.com/sekwan5/Auto-Table-Generator/main/skillDbBefore2.5Year.tsv
 // @license      MIT License
 // ==/UserScript==
 
