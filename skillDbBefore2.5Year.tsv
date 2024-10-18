@@ -689,7 +689,7 @@
 202662	1266	1	일반/하위	속도		치밀어 오르는 열	복받쳐 오르는 열기	込み上げる熱									distance_type==3 &phase_firsthalf_random==2 &order_rate>=30 &order_rate<=80 @distance_type==4 &phase_firsthalf_random==2 &order_rate>=30 &order_rate<=80			0.15				3								180				2024년 9월 6일				
 202671	1267	2	레어/상위	가속		하이 볼티지	하이 볼티지	ハイボルテージ									distance_type==2 &phase_firsthalf_random==2 &order_rate<=50					0.4		1.8								320				2024년 10월 17일				
 202672	1267	1	일반/하위	가속		들뜬 마음	설레는 마음	心弾んで									distance_type==2 &phase_firsthalf_random==2 &order_rate<=50					0.2		1.8								160				2024년 10월 17일				
-202681	1268	2	레어/상위	속도		띄워☆보자↑텐션	띄워☆보자↑분위기	ブチ☆アゲ↑バイブス									distance_type==4 &phase_random==1				0.35		3.5	2.4								400				2024년 10월 17일				
+202681	1268	2	레어/상위	속도		띄워☆보자↑텐션	띄워☆보자↑텐션	ブチ☆アゲ↑バイブス									distance_type==4 &phase_random==1				0.35		3.5	2.4								400				2024년 10월 17일				
 202682	1268	1	일반/하위	속도		텐션 상승	분위기 상승	バイブス上昇									distance_type==4 &phase_random==1				0.15		0.5	2.4								200				2024년 10월 17일				
 202691	1269	2	레어/상위	가속		누구보다 앞으로!	누구보다 앞으로!	誰より前へ！									distance_type==3 &phase==0		즉발			0.4		1.5								240				2024년 11월 18일				
 202692	1269	1	일반/하위	가속		제일 먼저	제일 먼저	一番乗り									distance_type==3 &phase==0		즉발			0.2		1.5								120				2024년 11월 18일				
