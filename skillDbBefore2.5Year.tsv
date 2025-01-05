@@ -658,8 +658,8 @@
 202472	1247	1	일반/하위	속도		달려들기	달려들기	食らいつき									running_style==2 &distance_rate>=50 &is_overtake==1 @running_style==3 &distance_rate>=50 &is_overtake==1		즉발		0.15			2.4								180				2024년 3월 18일				
 202481	1248	2	레어/상위	가속		괴물	괴물	怪物							distance_diff_top<=10 &distance_rate>=60 &phase==1		distance_type==4 &running_style==2 &phase==2		즉발			0.4		1.2								360				2024년 4월 9일				
 202482	1248	1	일반/하위	가속		진가 발휘	진가 발휘	本領発揮							distance_diff_top<=10 &distance_rate>=60 &phase==1		distance_type==4 &running_style==2 &phase==2		즉발			0.2		1.2								180				2024년 3월 18일				
-202491	1249	2	레어/상위	가속		뛰어난 순발력	뛰어난 순발력	抜群の切れ味							distance_rate>=66 &order_rate_out50_continue==1 &temptation_count==0		running_style==4 &phase_firsthalf_random==2					0.4		1.2								360				2024년 4월 18일				
-202492	1249	1	일반/하위	가속		순발력	순발력	切れ味							distance_rate>=66 &order_rate_out50_continue==1 &temptation_count==0		running_style==4 &phase_firsthalf_random==2					0.2		1.2								180				2024년 4월 18일				
+202491	1249	2	레어/상위	가속		뛰어난 추입력	뛰어난 추입력	抜群の切れ味							distance_rate>=66 &order_rate_out50_continue==1 &temptation_count==0		running_style==4 &phase_firsthalf_random==2					0.4		1.2								360				2024년 4월 18일				
+202492	1249	1	일반/하위	가속		추입력	추입력	切れ味							distance_rate>=66 &order_rate_out50_continue==1 &temptation_count==0		running_style==4 &phase_firsthalf_random==2					0.2		1.2								180				2024년 4월 18일				
 202501	1250	2	레어/상위	속도		마구마구	마구마구	遮二無二									distance_type==2 &phase_laterhalf_random==1 &order_rate<=50				0.35			2.4								360				2024년 5월 10일				
 202502	1250	1	일반/하위	속도		무모함	무모함	向こう見ず									distance_type==2 &phase_laterhalf_random==1 &order_rate<=50				0.15			2.4								180				2022년 6월 15일				
 202521	1252	2	레어/상위	속도		천의무봉	천의무봉	天衣無縫									distance_type==3 &corner_random==3 &order_rate>=50 @distance_type==4 &corner_random==3 &order_rate>=50			0.35				3								360				2024년 6월 14일				
@@ -695,10 +695,10 @@
 202692	1269	1	일반/하위	가속		제일 먼저	제일 먼저	一番乗り									distance_type==3 &phase==0		즉발			0.2		1.5								120				2024년 11월 18일				
 202701	1270	2	레어/상위	녹딱		싱귤래러티	싱귤래러티	シンギュラリティ									running_style==2 &distance_type==3 &base_speed>=1200 &base_wiz>=1200		즉발													240				2024년 11월 18일				
 202702	1270	1	일반/하위	녹딱		탐구심	탐구심	探求心									running_style==2 &distance_type==3 &base_speed>=1200 &base_wiz>=1200		즉발													120				2024년 11월 18일				
-202711	1271	2	레어/상위	가속			결정적 한 수	王手									running_style==2 &phase>=2 &is_finalcorner==1 &corner!=0 &remain_distance>=600 &order_rate<=70 @running_style==3 &phase>=2 &is_finalcorner==1 &corner!=0 &remain_distance>=600 &order_rate<=70		즉발			0.4		0.9								360				2024년 12월 12일				
+202711	1271	2	레어/상위	가속			결정적인 한 수	王手									running_style==2 &phase>=2 &is_finalcorner==1 &corner!=0 &remain_distance>=600 &order_rate<=70 @running_style==3 &phase>=2 &is_finalcorner==1 &corner!=0 &remain_distance>=600 &order_rate<=70		즉발			0.4		0.9								360				2024년 12월 12일				
 202712	1271	1	일반/하위	가속			회심의 한 걸음	会心の一歩									running_style==2 &phase>=2 &is_finalcorner==1 &corner!=0 &remain_distance>=600 &order_rate<=70 @running_style==3 &phase>=2 &is_finalcorner==1 &corner!=0 &remain_distance>=600 &order_rate<=70		즉발			0.2		0.9								180				2024년 12월 12일				
 202721	1272	2	레어/상위	속도			네버 기브 업	ネバーギブアップ									phase_corner_random==1				0.25			4								360				2024년 12월 12일				
-202722	1272	1	일반/하위	속도			포기하지 않는 마음	折れない心									phase_corner_random==1				0.05			4								180				2024년 12월 12일				
+202722	1272	1	일반/하위	속도			굴하지 않는 마음	折れない心									phase_corner_random==1				0.05			4								180				2024년 12월 12일				
 202731	1273	2	일반/하위	녹딱			롱샹 경기장◎	ロンシャンレース場◎									track_id==◯		즉발													160				2024년 12월 12일				
 202732	1273	1	일반/하위	녹딱			롱샹 경기장◯	ロンシャンレース場○									track_id==◯		즉발													70				2024년 12월 12일				
 202733	1273	0	일반/하위	녹딱			롱샹 경기장×	ロンシャンレース場×									track_id==◯		즉발													40				2024년 12월 12일				
@@ -1012,7 +1012,7 @@
 101201121	1073	9	진화	속도			맞짱에 거는 집념	タイマンにかける執念	히시 아마존						is_finalcorner==1 &change_order_onetime<0		remain_distance<=201 &remain_distance>=199 &distance_type==3		즉발		0.45			3												2022년 10월 10일	승리를 향한 집념			
 101201211	1063	9	진화	속도		노도의 포로로카	노도의 포로로카	怒濤のポロロッカ	히시 아마존						phase>=2 &distance_diff_rate>=50		running_style==4 &phase_firsthalf_random==3 &is_lastspurt==1				0.45			3												2022년 10월 10일	질풍노도			
 101202111	1202	9	진화	속도		열렬한 인게이지!	열렬한 인게이지!	熱烈エンゲージ！	히시 아마존 (웨딩)								running_style==4 &phase_random==1 &order_rate>=50				0.35			4												2024년 9월 16일	강공책			
-101202211	1249	9	진화	가속		투혼입도!	투혼입도!	闘魂入刀！	히시 아마존 (웨딩)						distance_rate>=66 &temptation_count==0		running_style==4 &distance_type==3 &phase_firsthalf_random==2					0.4		4												2024년 9월 16일	뛰어난 순발력			
+101202211	1249	9	진화	가속		투혼입도!	투혼입도!	闘魂入刀！	히시 아마존 (웨딩)						distance_rate>=66 &temptation_count==0		running_style==4 &distance_type==3 &phase_firsthalf_random==2					0.4		4												2024년 9월 16일	뛰어난 추입력			
 101301111	1119	9	진화	속도		메지로의 마음가짐	메지로의 마음가짐	メジロの心得	메지로 맥퀸								distance_type==4 &phase_random==1 &order_rate<=50				0.45			3												2022년 6월 15일	선봉의 마음가짐			
 101301211	1056	9	진화	속도		명배우의 여유	명배우의 여유	名優の余裕	메지로 맥퀸								running_style==2 &phase_laterhalf_random==0 &order_rate<=50				0.15		5.5	3												2022년 6월 15일	여유만만			
 101302111	1074	9	진화	속도		액티브 레스트	액티브 레스트	アクティブレスト	메지로 맥퀸 (애니 콜라보)								distance_type==4 &phase_random==1				0.15		5.5	3												2022년 7월 19일	쿨다운			
@@ -1258,7 +1258,7 @@
 107201111	1046	9	진화	속도		솟구치는 불꽃	솟구치는 불꽃	昂る焔	야에노 무테키								phase==1 &change_order_onetime<0				0.35			4												2023년 8월 8일	텐션 오르는데!			
 107201211	1073	9	진화	복합		여덟 겹의 경쟁심	팔중의 경쟁심	八重の向こう意気	야에노 무테키								distance_type==3 &is_finalcorner==1 &overtake_target_time>=2		즉발		0.45	0.1		3												2023년 8월 8일	승리를 향한 집념			
 107201221	1073	9	진화	속도			승리에 애태우는 격정	勝利に焦がれる激情	야에노 무테키								phase>=2 &is_finalcorner==1 &is_overtake==1 &distance_type==3		즉발	0.35				4												2023년 8월 8일	승리를 향한 집념			
-107202111	1271	9	진화	복합			장수의 빠른 칼날	将の疾刃	야에노 무테키 (Warfare)								running_style==2 &phase>=2 &is_finalcorner==1 &corner!=0 &remain_distance>=600 &order_rate<=70 @running_style==3 &phase>=2 &is_finalcorner==1 &corner!=0 &remain_distance>=600 &order_rate<=70		즉발			0.4		0.9		is_activate_other_skill_detail==1 &is_lastspurt==1 &phase_firsthalf_random==3		0.15			3					2025년 8월 19일	결정적 한 수			
+107202111	1271	9	진화	복합			장수의 빠른 칼날	将の疾刃	야에노 무테키 (Warfare)								running_style==2 &phase>=2 &is_finalcorner==1 &corner!=0 &remain_distance>=600 &order_rate<=70 @running_style==3 &phase>=2 &is_finalcorner==1 &corner!=0 &remain_distance>=600 &order_rate<=70		즉발			0.4		0.9		is_activate_other_skill_detail==1 &is_lastspurt==1 &phase_firsthalf_random==3		0.15			3					2025년 8월 19일	결정적인 한 수			
 107202211	1247	9	진화	속도			무쌍의 추격	無双の追撃	야에노 무테키 (Warfare)								running_style==2 &distance_rate>=50 &is_overtake==1 &lane_type==0 @running_style==3 &distance_rate>=50 &is_overtake==1 &lane_type==0		즉발	0.45				2.4												2025년 8월 19일	맹추격			
 107401111	1047	9	진화	회복		불굴의 아가씨	꺾이지 않는 아가씨	不屈のお嬢様	메지로 브라이트								phase==1 &change_order_onetime>0						7.5													2023년 7월 7일	꺾이지 않는 마음		TRUE	
 107401211	1207	9	진화	속도		움직이지 않음을 요테이산과 같이	움직이지 않음을 요테이산과 같이	動かざること羊蹄山の若し	메지로 브라이트								distance_type==4 &phase_firsthalf_random==1 &order_rate>=40 &order_rate<=80			-0.15			9.5	1.2												2023년 7월 7일	태연자약			
