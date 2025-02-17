@@ -772,13 +772,13 @@
 210301	2030	2	레어/상위	속도			폭열의 반짝임!	爆熱のキラメキ！									distance_type==2 &phase_random==1 @distance_type==3 &phase_random==1				0.35			1.8								400				2025년 6월 14일				
 210302	2030	1	일반/하위	속도			버닝 소울	バーニングソウル									distance_type==2 &phase_random==1 @distance_type==3 &phase_random==1				0.15			1.8								200				2025년 6월 14일				
 210311	2031	1	일반/하위	속도			애슬리트 혼	アスリート魂									distance_type==2 &distance_rate_after_random==50 &base_guts>=1200 @distance_type==3 &distance_rate_after_random==50 &base_guts>=1200			0.25				1.2								170				2025년 6월 14일				
-407011	1280	9	진화	속도			반짝이는 승부	キラメキの勝負									distance_type==2 &phase_laterhalf_random==0 @distance_type==3 &phase_laterhalf_random==0				0.45			1.8												2025년 6월 14일	기선 잡기 승부			
-407021	1046	9	진화	속도			불타오르는데!!	燃えてきたッ！！									distance_type==2 &phase==1 &change_order_onetime<0 @distance_type==3 &phase==1 &change_order_onetime<0				0.45			1.8												2025년 6월 14일	텐션 오르는데!			
-407031	1051	9	진화	속도			최선을 다해서!	ベストを尽くして！									distance_type==2 &is_lastspurt==1 &phase_firsthalf_random==3 @distance_type==3 &is_lastspurt==1 &phase_firsthalf_random==3				0.45			2.4												2025년 6월 14일	전심전력			
-407041	1250	9	진화	속도			둘도 없는 정열	無二の情熱									distance_type==2 &phase_laterhalf_random==1 &order_rate<=70				0.45			2.4												2025년 6월 14일	마구마구			
-407051	1211	9	진화	속도			파죽근육	破竹の筋肉									distance_type==2 &is_finalcorner_random==1 &order_rate>=25				0.45			1.8												2025년 6월 14일	파죽지세			
-407061	1072	9	진화	속도			스테이 튠!	ステイチューン！									distance_type==3 &phase_random==1 &order_rate<=70				0.45			2.4												2025년 6월 14일	킬러 튠			
-407071	1210	9	진화	속도			이어지는 고양감	繋がる高揚感									distance_type==3 &phase_random==1 &order_rate>=25				0.45			2.4												2025년 6월 14일	고양감			
+407011	1280	9	레어/상위	속도			반짝이는 승부	キラメキの勝負									distance_type==2 &phase_laterhalf_random==0 @distance_type==3 &phase_laterhalf_random==0				0.45			1.8												2025년 6월 14일	기선 잡기 승부			
+407021	1046	9	레어/상위	속도			불타오르는데!!	燃えてきたッ！！									distance_type==2 &phase==1 &change_order_onetime<0 @distance_type==3 &phase==1 &change_order_onetime<0				0.45			1.8												2025년 6월 14일	텐션 오르는데!			
+407031	1051	9	레어/상위	속도			최선을 다해서!	ベストを尽くして！									distance_type==2 &is_lastspurt==1 &phase_firsthalf_random==3 @distance_type==3 &is_lastspurt==1 &phase_firsthalf_random==3				0.45			2.4												2025년 6월 14일	전심전력			
+407041	1250	9	레어/상위	속도			둘도 없는 정열	無二の情熱									distance_type==2 &phase_laterhalf_random==1 &order_rate<=70				0.45			2.4												2025년 6월 14일	마구마구			
+407051	1211	9	레어/상위	속도			파죽근육	破竹の筋肉									distance_type==2 &is_finalcorner_random==1 &order_rate>=25				0.45			1.8												2025년 6월 14일	파죽지세			
+407061	1072	9	레어/상위	속도			스테이 튠!	ステイチューン！									distance_type==3 &phase_random==1 &order_rate<=70				0.45			2.4												2025년 6월 14일	킬러 튠			
+407071	1210	9	레어/상위	속도			이어지는 고양감	繋がる高揚感									distance_type==3 &phase_random==1 &order_rate>=25				0.45			2.4												2025년 6월 14일	고양감			
 900011	97	1	계승	복합		슈팅 스타	슈팅 스타	シューティングスター	스페셜 위크								phase>=2 &order>=1 &order_rate<=50 &change_order_onetime<0			0.15		0.05		3								200				2022년 6월 15일				
 900021	79	1	계승	속도		선두의 경치는 양보할 수 없어…!	선두의 경치는 양보할 수 없어…!	先頭の景色は譲らない…！	사일런스 스즈카								distance_rate>=50 &order==1 &bashin_diff_behind>=1		즉발		0.15			3								200				2022년 6월 15일				
 900031	152	1	계승	속도		궁극 테이오 스텝	궁극 테이오 스텝	究極テイオーステップ	토카이 테이오						phase>=2 &order<=3 &bashin_diff_infront<=1 &is_overtake==1		is_last_straight==1		즉발		0.25			3								200				2022년 6월 15일				
