@@ -562,8 +562,8 @@
 202002	1200	1	일반/하위	속도		모래 먼지 적응	모래 먼지 적응	砂塵慣れ									ground_type==2 &phase_random==1 &order_rate>=50				-		1.5	-								180				2023년 4월 4일				
 202011	1201	2	레어/상위	속도		노력의 결정체	노력의 결정체	真打									distance_type==4 &phase_laterhalf_random==1 &order_rate<=50				0.35			2.4								320				2023년 4월 21일				
 202012	1201	1	일반/하위	속도		노력의 결과	노력의 결과	影打									distance_type==4 &phase_laterhalf_random==1 &order_rate<=50				0.15			2.4								160				2023년 4월 21일				
-202021	1202	2	레어/상위	속도		강공책	강공책	強攻策									running_style==4 &phase_random==1 &order_rate>=50				0.25			4								360				2023년 4월 21일				
-202022	1202	1	일반/하위	속도		이른 작전	이른 작전	早仕掛け									running_style==4 &phase_random==1 &order_rate>=50				0.05			4								180				2022년 6월 15일				
+202022	1202	2	레어/상위	속도		강공책	강공책	強攻策									running_style==4 &phase_random==1 &order_rate>=50				0.25			4								360				2023년 4월 21일				
+202021	1202	1	일반/하위	속도		이른 작전	이른 작전	早仕掛け									running_style==4 &phase_random==1 &order_rate>=50				0.05			4								180				2022년 6월 15일				
 202031	1203	2	레어/상위	속도		도박사	도박사	博打うち									distance_rate_after_random==50				0.45		60% 확률로 0 / 30% 확률로 -2 / 10% 확률로 -4	1.8								240				2023년 5월 2일				
 202032	1203	1	일반/하위	속도		수상한 작전	수상한 작전	あやしげな作戦									distance_rate_after_random==50				0.25		60% 확률로 0 / 30% 확률로 -2 / 10% 확률로 -4	1.8								120				2022년 6월 15일				
 202041	1204	2	레어/상위	속도		의기충천	의기충천	意気衝天									distance_type==1 &phase_laterhalf_random==1 &order_rate<=50				0.35			2.4								320				2023년 5월 19일				
