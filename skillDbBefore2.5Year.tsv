@@ -956,6 +956,7 @@
 920601	32	1	계승	속도			쫀득쫀득・항상 맑음	もちっと・ハレハレ	나이스 네이처 (새해)								phase>=2 &is_finalcorner==1 &order_rate>=40 &distance_type==3			0.25				2.4								200				2025년 4월 29일				
 920671	87	1	계승	속도			퐁트・드・디아망	ポンテ・デ・ディアマン	사토노 다이아몬드 (프로젝트 L'Arc)								phase_laterhalf_random==1 &order_rate>=40 &order_rate<=80 &distance_type==3				0.15			3								200				2024년 12월 30일				
 920681	142	1	계승	속도			모두의 나에게!	ミンナノアタシへ！	키타산 블랙 (애니 콜라보)								phase<=1 &change_order_onetime>0 &accumulatetime>=5 &order_rate<=50 @phase<=1 &blocked_side_continuetime>=2 &accumulatetime>=5 &order_rate<=50				0.15			1.8								200				2025년 4월 17일				
+920321	12032	1	계승	속도			초광속 미립자의 가능성	超光速微粒子の可能性	아그네스 타키온 (Σ Experiment)								phase<=1 &change_order_onetime>0 &accumulatetime>=5 &order_rate<=50 @phase<=1 &blocked_side_continuetime>=2 &accumulatetime>=5 &order_rate<=50				0.15			1.8								200				2025년 8월 30일				
 100101111	1135	9	진화	속도		배고픈 대장	배고픈 대장	はらぺこ大将	스페셜 위크								running_style==2 &phase_random==1				0.15		5.5	3												2022년 6월 15일	먹보			
 100101211	1051	9	진화	속도		꿈을 이뤄 주는 뒷심	꿈을 이뤄주는 뒷심	夢叶える末脚	스페셜 위크								is_lastspurt==1 &phase_firsthalf_random==3				0.45			2.4												2022년 6월 15일	전심전력			
 100102111	1059	9	진화	속도		한여름의 자유	한여름의 결심	真夏の思い切り	스페셜 위크 (여름)								running_style==3 &phase_random==1 &order_rate>=40				0.35			4												2022년 11월 17일	신속 과감			
