@@ -1318,7 +1318,7 @@
 110801211	1287	9	진화	복합			혁언	赫焉	두라멘테								distance_type==3 &track_id!=10005 &running_style==4 &phase>=2 &is_finalcorner==1 &corner!=0 &order_rate>=40 @distance_type==3 &track_id==10005 &running_style==4 &phase>=2 &corner!=0 &order_rate>=40					0.4		0.9		is_activate_other_skill_detail==1 &is_last_straight==1		0.15			3					2025년 6월 14일	군림			
 110901111	1250	9	진화	속도			미래를 열어라!	未来を拓け！	라인크라프트								distance_type==2 &phase_laterhalf_random==1 &order_rate<=50				0.45			2.4												2025년 7월 10일	마구마구			
 110901211	1190	9	진화	복합			절~대로 질 수 없어!	ぜーったい負けられない！	라인크라프트								running_style==2 &phase_firsthalf_random==2 &order_rate<=50					0.4		1.8		is_activate_other_skill_detail==1 &remain_distance<=201 &remain_distance>=199		0.15			3					2025년 7월 10일	치열한 승부			
-103203211	20159	9	진화	속도			피험자 관찰	被験体観察	아그네스 타키온 (Σ Experiment)					2025년 8월 30일				
+103203211	1159	9	진화	속도			피험자 관찰	被験体観察	아그네스 타키온 (Σ Experiment)					2025년 8월 30일				
 103203111	20298	9	진화	속도			광속을 초월하는 입자	光速を超える粒子	아그네스 타키온 (Σ Experiment)					2025년 8월 30일				
 202981	20298	2	레어/상위	속도			유성광저	流星光底						2025년 8월 30일				
 202982	20298	1	일반/하위	속도			비약의 예감	飛躍の予感						2025년 8월 30일			
